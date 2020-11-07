@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">hiaidemo</string>
+    <string name="build_model">创建模型</string>
+    <string name="inference">推理</string>
+</resources>
